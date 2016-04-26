@@ -1,5 +1,6 @@
 package algorithms.hackerrank.search;
 
+import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.Scanner;
 
